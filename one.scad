@@ -61,7 +61,7 @@ module poly_path3056(h)
 
 difference(){
 	translate([-46,-30,1]){
-		cube([92,60,5]);
+		cube([92,60,1]);
 	}
 	poly_path3056(10);
 }
